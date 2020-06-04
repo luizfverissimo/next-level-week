@@ -30,16 +30,29 @@
   #page-search-results .cards .card {
     text-align: center;
   }
+
+  #page-create-point .field-group {
+    flex-direction: column;
+  }
+
+  #page-create-point .field-group .field + .field {
+    margin-left: 0;
+  }
+
+  #page-create-point .items-grid {
+    grid-template-columns: 1fr 1fr;
+  }
 }
 
-@media (min-width: 1700px){
+@media (min-width: 1700px) {
   #page-home {
     background-position-x: 40vw;
   }
 }
 
-@media (max-height: 760px){
+@media (max-height: 760px) {
   #page-home {
     background-position-y: 200px;
   }
+
 }
