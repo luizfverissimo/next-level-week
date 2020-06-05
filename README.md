@@ -1,5 +1,5 @@
 # next-level-week
- Projeto Ecoleta feito na **Next Level Week**.
+ Projeto Ecoleta feito na **Next Level Week 1**.
 
  Tecnologias utilizadas:
  * Node.js
