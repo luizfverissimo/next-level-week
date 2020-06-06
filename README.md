@@ -1,7 +1,7 @@
 # next-level-week
  Projeto Ecoleta feito na **Next Level Week 1**.
 
- Tecnologias utilizadas:
+ Tecnologias e dependências utilizadas:
  * Node.js
  * Express
  * Nunchuks
